@@ -68,7 +68,7 @@ p {font-size: 15px;}
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
 }
 
-.container h1 {
+.container h1, .coffee-guide h1 {
   font-size: 40px;
   font-weight: bold;
 }
